@@ -82,11 +82,11 @@ _(Please note: Specific code for this project is not provided in the context. Th
 
 ## Usage
 
-_(Please note: Specific code for this project is not provided in the context. The following are general instructions based on the paper's description.)_
+
 
 ### Training
 
-To train the model, you would typically run a Python script, specifying parameters like learning rate, batch size, epochs, and paths to the dataset.
+To train the model, you run a Python script, specifying parameters like learning rate, batch size, epochs, and paths to the dataset.
 
 ```bash
 # Example command (actual command may vary)
