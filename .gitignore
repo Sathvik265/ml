@@ -1,0 +1,15 @@
+# Model/artifact files (keep local; don't commit to GitHub)
+best_pipeline_model.pt
+*.pt
+*.pth
+*.onnx
+
+# Python cache / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
